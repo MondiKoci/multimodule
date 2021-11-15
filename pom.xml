@@ -28,7 +28,7 @@
 
 	<scm>
 		<developerConnection>scm:git:https://github.com/MondiKoci/multimodule.git</developerConnection>
-		<tag>multimodule-0.0.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<dependencies>
